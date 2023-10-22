@@ -1,5 +1,12 @@
 {
-    "name": "John Doe",
-    "age": 30,
-    "city": "New York"
+    "Name": "Susmita Ravula",
+    "Age": 23,
+    "city": "New York",
+    "Best place": "Northern Lights",
+    "Favorite Athlete": "Michael Jordan",
+    "Favorite Comic": "Watchmen",
+    "Favorite Author": "J.K.Rowling",
+    "Favorite Movie": "The Shawshank Redemption",
+    "Favorite Cartoon": "Tom & Jerry",
+    "Motivational quote": “All our dreams can come true, if we have the courage to pursue them”
 }
